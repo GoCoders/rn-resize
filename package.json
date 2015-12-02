@@ -1,0 +1,26 @@
+{
+  "name": "rn-resize",
+  "version": "0.0.1",
+  "description": "resize images in react native",
+  "main": "index.js",
+  "scripts": {
+    "test": " "
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/CodeFoundation/rn-resize.git"
+  },
+  "keywords": [
+    "rn",
+    "react",
+    "react-native",
+    "component",
+    "react-native-component"
+  ],
+  "author": "Zach Silveira",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CodeFoundation/rn-resize/issues"
+  },
+  "homepage": "https://github.com/CodeFoundation/rn-resize#readme"
+}
